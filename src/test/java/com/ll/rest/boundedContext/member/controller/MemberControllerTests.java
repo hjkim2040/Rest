@@ -1,4 +1,4 @@
-package com.ll.rest.boundContext.member.controller;
+package com.ll.rest.boundedContext.member.controller;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
